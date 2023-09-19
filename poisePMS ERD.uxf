@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>8</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>416</x>
+      <y>40</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PROJECTS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>472</x>
+      <y>168</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_NAME</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>400</x>
+      <y>96</y>
+      <w>168</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;90.0;190.0;10.0;10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>336</x>
+      <y>168</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+_PRJ_NUM_
+bg=PINK</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>152</x>
+      <y>264</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+COST</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>376</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+_PRJ_NUM_
+bg=PINK</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>64</x>
+      <y>328</y>
+      <w>168</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;60.0;190.0;10.0;10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>208</x>
+      <y>328</y>
+      <w>168</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;60.0;190.0;10.0;10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>272</x>
+      <y>376</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_TOTAL_PAID</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>136</x>
+      <y>376</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_TOTAL_COST</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>656</x>
+      <y>256</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+STATUS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>592</x>
+      <y>376</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_STATUS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>728</x>
+      <y>376</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_DEADLINE</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>864</x>
+      <y>376</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_COMPL_DATE</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>456</x>
+      <y>376</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+_PRJ_NUM_
+bg=PINK</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>512</x>
+      <y>328</y>
+      <w>168</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;60.0;190.0;10.0;10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>656</x>
+      <y>328</y>
+      <w>152</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>170.0;60.0;170.0;10.0;10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>784</x>
+      <y>328</y>
+      <w>160</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;60.0;180.0;10.0;10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>352</x>
+      <y>608</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+PRJ_ERF_NR</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>488</x>
+      <y>608</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_TYPE</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>624</x>
+      <y>608</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_ADDRESS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>408</x>
+      <y>480</y>
+      <w>152</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+INFO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>216</x>
+      <y>608</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+_PRJ_NUM_
+bg=PINK</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>552</x>
+      <y>560</y>
+      <w>160</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;60.0;180.0;10.0;10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>424</x>
+      <y>560</y>
+      <w>152</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>170.0;60.0;170.0;10.0;10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>280</x>
+      <y>560</y>
+      <w>168</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;60.0;190.0;10.0;10.0;10.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>608</x>
+      <y>768</y>
+      <w>160</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;60.0;180.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>472</x>
+      <y>768</y>
+      <w>160</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;60.0;180.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>336</x>
+      <y>768</y>
+      <w>160</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;60.0;180.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>192</x>
+      <y>768</y>
+      <w>168</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;60.0;190.0;10.0;10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>136</x>
+      <y>816</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+_PRJ_NUM_
+bg=PINK</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>272</x>
+      <y>816</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_ARCH_NAME</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>408</x>
+      <y>816</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_ARCH_CONTACT</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>544</x>
+      <y>816</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_ARCH_EMAIL</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>680</x>
+      <y>816</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_ARCH_ADDRESS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>392</x>
+      <y>704</y>
+      <w>176</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+ARCHITECTS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>408</x>
+      <y>1040</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_CUST_CONTACT</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>272</x>
+      <y>1040</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_CUST_NAME</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>544</x>
+      <y>1040</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_CUST_EMAIL</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>680</x>
+      <y>1040</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_CUST_ADDRESS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>464</x>
+      <y>1000</y>
+      <w>160</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;50.0;180.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>336</x>
+      <y>1000</y>
+      <w>152</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>170.0;50.0;170.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>200</x>
+      <y>1000</y>
+      <w>160</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;50.0;180.0;10.0;10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>384</x>
+      <y>920</y>
+      <w>176</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+CUSTOMERS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>136</x>
+      <y>1040</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+_PRJ_NUM_
+bg=PINK</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>600</x>
+      <y>1000</y>
+      <w>168</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;50.0;190.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>536</x>
+      <y>1296</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_MAN_EMAIL</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>400</x>
+      <y>1296</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_MAN_CONTACT</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>672</x>
+      <y>1296</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_MAN_ADDRESS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>264</x>
+      <y>1296</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_MAN_NAME</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>320</x>
+      <y>1232</y>
+      <w>168</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;80.0;190.0;10.0;10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>464</x>
+      <y>1232</y>
+      <w>160</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;80.0;180.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>600</x>
+      <y>1232</y>
+      <w>160</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;80.0;180.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>384</x>
+      <y>1152</y>
+      <w>176</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+MANAGERS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>128</x>
+      <y>1296</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+_PRJ_NUM_
+bg=PINK</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>176</x>
+      <y>1232</y>
+      <w>168</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;80.0;190.0;10.0;10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>392</x>
+      <y>1392</y>
+      <w>176</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+ENGINEERS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>400</x>
+      <y>1496</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_SENG_CONTACT</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>264</x>
+      <y>1496</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_SENG_NAME</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>536</x>
+      <y>1496</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_SENG_EMAIL</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>672</x>
+      <y>1496</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+PRJ_SENG_ADDRESS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>128</x>
+      <y>1496</y>
+      <w>136</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>valign=center
+halign=center
+_PRJ_NUM_
+bg=PINK</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>328</x>
+      <y>1432</y>
+      <w>168</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;80.0;190.0;10.0;10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>472</x>
+      <y>1432</y>
+      <w>160</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;80.0;180.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>608</x>
+      <y>1432</y>
+      <w>152</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>170.0;80.0;170.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>184</x>
+      <y>1432</y>
+      <w>168</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>190.0;80.0;190.0;10.0;10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+</diagram>
