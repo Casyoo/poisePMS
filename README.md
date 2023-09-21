@@ -15,6 +15,9 @@ poisePMS is a database management system that provides a way to perform the foll
 *  Search and display a project based on project name.
 *  Display all projects sorted in ascending numerical oreder based on project number.     
 
+## Usage
+poisePMS can be used to create, maintain and update records of bulding projects of a hypothetical construction company.
+By foowing the menu and prompts it can be easily used to navigate and perform desired operations.
 
 ## Table of contents
 ### How to run the project
@@ -24,7 +27,7 @@ JDBC
 SQL database included
 JavaDocs included in JavaDocs Folder
 
-###FAQ
+### FAQ
 * Can I contribute?
   That should not be a problem!
 
@@ -38,6 +41,9 @@ JavaDocs included in JavaDocs Folder
   Do not hesitate to contact me.
 Licence
 Copyright [2023] [C.Struwig]
+
+### Credits and references
+All credit and references for this project can be found at the end of the Main.java file.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
